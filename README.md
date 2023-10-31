@@ -26,6 +26,8 @@ From the menu select Socket Mode and toggle the feature on. Ensure Interactivity
 
 <img width="834" alt="image" src="https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/c877c8b6-9a29-4289-a9fd-19137ac285cd">
 
+That's it for creating the Slack app. You'll need to refer back to this later to get tokens.
+
 ### Install Packages
 Install the required packages from OpenAI, Langchain, and Slack (Bolt Framework).
 
