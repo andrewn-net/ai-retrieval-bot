@@ -44,7 +44,7 @@ Update the values in the `constants.py` file.
 
 ## Data Files
 
-In the project are two sample files in the folder `data` folder. Place any text files you like in this directory.
+In the project are two sample files in the `data` folder. Place any text files you like in this directory.
 
 You can now chat with the bot in Slack. Ask it questions and recieve AI-generated responses based on the documents.
 
