@@ -20,7 +20,7 @@ From the left hand menu there is another section called Basic Information. Here 
 
 #### Enabling Socket Mode
 
-This code uses a Slack feature called [Socket Mode](https://api.slack.com/apis/connections/socket). It is alternative to using HTTP as your app's communication protocol. If you prefer to use HTTP head over to [this tutorial](https://slack.dev/bolt-python/tutorial/getting-started-http) to make the appropriate code changes.
+This code uses a Slack feature called [Socket Mode](https://api.slack.com/apis/connections/socket). It is alternative to using HTTP as your bot's communication protocol. If you prefer to use HTTP head over to [this tutorial](https://slack.dev/bolt-python/tutorial/getting-started-http) to make the appropriate code changes.
 
 From the menu select Socket Mode and toggle the feature on. Ensure Interactivity is also enabled.
 
