@@ -9,7 +9,7 @@ This Slack bot allows users to ask questions and receive AI-generated responses 
 This high-level walkthrough will give you the basics to create a bot and Slack app using the Slack Bolt framework.  If you don't already have a Slack workspace, sign-up at slack.com.
 Then [create a Slack app](https://api.slack.com/apps/new) and give it a name, icon, and description.
 
-![image](https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/a0d3f51b-7074-4a51-b39f-2f170d8428d4)\
+![image](https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/a0d3f51b-7074-4a51-b39f-2f170d8428d4)
 
 #### Tokens
 Navigate to OAuth & Permissions (left hand side menu) and in the Bot Token Scopes section add the scopes `chat:write` and `app_mentions:read`
