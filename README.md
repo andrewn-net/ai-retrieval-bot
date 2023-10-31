@@ -48,4 +48,5 @@ In the project are two sample files in the folder `data` folder. Place any text 
 
 You can now chat with the bot in Slack. Ask it questions and recieve AI-generated responses based on the documents.
 
-<img width="711" alt="image" src="https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/e9667fba-4f9e-4864-8265-103e061bac8e">
+<img width="710" alt="image" src="https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/34fe1125-ee20-42a1-99c0-9b3ad4b55cdb">
+
