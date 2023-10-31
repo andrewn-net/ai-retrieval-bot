@@ -14,7 +14,7 @@ SLACK_APP_TOKEN = constants.SLACK_APP_TOKEN
 # OpenAI API key from constants.py
 os.environ["OPENAI_API_KEY"] = constants.OPENAI_API_KEY
 
-# Initialize the Bolt app with your app token, and signing secret
+# Initialize the Bolt app with your app token and signing secret
 app = App(
     token=SLACK_BOT_TOKEN,
     signing_secret=SLACK_SIGNING_SECRET,
