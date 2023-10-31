@@ -1,6 +1,6 @@
 # AI Retrieval Bot
 
-![opena-langchain-slack](https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/425de7e0-30ca-4d01-b629-82207a4705b2)
+![opena-langchain-slack](https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/78996d00-8c69-4edd-beca-407b834c8edb)
 
 This Slack bot allows users to ask questions and receive AI-generated responses based on documents located within a specified directory. This functionality is made possible through Retrieval-augmented generation (RAG), a framework provided by Langchain. You can find more information about RAG in the Langchain documentation [here](https://github.com/langchain-ai/langchain).
 
@@ -9,7 +9,7 @@ This Slack bot allows users to ask questions and receive AI-generated responses 
 This high-level walkthrough will give you the basics to create a bot and Slack app using the Slack Bolt framework.  If you don't already have a Slack workspace, sign-up at slack.com.
 Then [create a Slack app](https://api.slack.com/apps/new) and give it a name, icon, and description.
 
-![image](https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/99def17b-5913-4d12-9c1c-8b336868eef5)
+![image](https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/a0d3f51b-7074-4a51-b39f-2f170d8428d4)\
 
 #### Tokens
 Navigate to OAuth & Permissions (left hand side menu) and in the Bot Token Scopes section add the scopes `chat:write` and `app_mentions:read`
@@ -24,7 +24,7 @@ This code uses a Slack feature called [Socket Mode](https://api.slack.com/apis/c
 
 From the menu select Socket Mode and toggle the feature on. Ensure Interactivity is also enabled.
 
-<img width="830" alt="image" src="https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/a5c0aea2-d51f-41f9-87b9-2ed107d99f44">
+<img width="834" alt="image" src="https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/c877c8b6-9a29-4289-a9fd-19137ac285cd">
 
 ### Install Packages
 Install the required packages from OpenAI, Langchain, and Slack (Bolt Framework).
