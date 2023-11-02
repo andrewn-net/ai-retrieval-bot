@@ -28,12 +28,6 @@ index = VectorstoreIndexCreator().from_loaders([loader])
 @app.message()
 def process_query(message, say):
     query = message['text']
-    
-    # Check for the clear command
-    if query.lower() == 'clear':
-        for _ in range(20):  # Adjust this number based on how much you want to "clear"
-            say('.')
-        return
 
     response = index.query(query)
     say(response)
