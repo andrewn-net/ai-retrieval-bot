@@ -1,6 +1,6 @@
 # AI Retrieval Bot
 
-![opena-langchain-slack](https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/78996d00-8c69-4edd-beca-407b834c8edb)
+![openai-langchain-slack](https://github.com/andrewn-net/ai-retrieval-bot/assets/27248499/005c3a14-a8b5-4925-a636-d470a594bdc3)
 
 This Slack bot allows users to ask questions and receive AI-generated responses based on documents located within a specified directory. This functionality is made possible through Retrieval-augmented generation (RAG), a framework provided by Langchain. You can find more information about RAG in the Langchain documentation [here](https://github.com/langchain-ai/langchain).
 
